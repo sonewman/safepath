@@ -1,0 +1,28 @@
+{
+  "name": "safepath",
+  "version": "0.0.0",
+  "description": "safe simple json path notation",
+  "main": "safepath.js",
+  "scripts": {
+    "test": "macchiato test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sonewman/safepath.git"
+  },
+  "keywords": [
+    "simple",
+    "safe",
+    "json",
+    "path"
+  ],
+  "author": "Sam Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonewman/safepath/issues"
+  },
+  "homepage": "https://github.com/sonewman/safepath#readme",
+  "devDependencies": {
+    "macchiato": "^4.6.0"
+  }
+}
